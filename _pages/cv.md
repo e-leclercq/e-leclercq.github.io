@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.S. - Physics, Waubonsee Community College, Sugar Grove, IL., May 2017
+* B.S. LAS - Mathematics, University of Illinois, Urbana-Champaign, IL., May 2020 (expected)
 
-Work experience
+Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *Eagle Scout*, **Boy Scout's of America**, 2012
+* *17 Eagle Palms*, **Boy Scout's of America**, 2012-2017
+* *All 140 Merit Badges*, **Boy Scout's of America**, 2010-2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software 
+	* Linux (Arch + i3)
+	* UNIX (OpenBSD, FreeBSD)
+	* Shell Scripting
+	* LaTeX
+	* Python
+	* MySQL/MariaDB
+	* R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Mathematics
+	* Statistics
+	* Combinatorics
+	* Linear Algebra
+
+* Languages
+	* English
+	* French
