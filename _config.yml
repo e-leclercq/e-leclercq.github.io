@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Evan LeClercq / My Website"
+title                    : "Evan LeClercq . com"
 title_separator          : "-"
 name                     : &name "E LeClercq"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Evan LeClercq"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Urbana-Champaign, IL"
   employer         :
   pubmed           : 
