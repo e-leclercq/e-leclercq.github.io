@@ -12,23 +12,18 @@ redirect_from:
 Education
 ======
 * A.S. - Physics, Waubonsee Community College, Sugar Grove, IL., May 2017
-* B.S. LAS - Mathematics, University of Illinois, Urbana-Champaign, IL., May 2020 (expected)
-
-Awards
-======
-* *Eagle Scout*, **Boy Scout's of America**, 2012
-* *17 Eagle Palms*, **Boy Scout's of America**, 2012-2017
-* *All 140 Merit Badges*, **Boy Scout's of America**, 2010-2017
+* B.S.L.A.S. - Mathematics, University of Illinois, Urbana-Champaign, IL., May 2020 (expected)
 
 Skills
 ======
 * Software 
-	* Linux (Arch + i3)
-	* UNIX (OpenBSD, FreeBSD)
-	* Shell Scripting
+	* Linux (Arch, Debian, CentOS)
+	* UNIX (OpenBSD)
+	* Shell Scripting (Bash and Zsh)
 	* LaTeX
+	* HTML/CSS/Markdown
 	* Python
-	* MySQL/MariaDB
+	* MariaDB (A fork of MySQL)
 	* R
 
 * Mathematics
@@ -39,3 +34,9 @@ Skills
 * Languages
 	* English
 	* French
+
+Awards
+======
+* *Eagle Scout*, **Boy Scout's of America**, 2012
+* *17 Eagle Palms*, **Boy Scout's of America**, 2012-2017
+* *All 140 Merit Badges*, **Boy Scout's of America**, 2010-2017
