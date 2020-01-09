@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* A.S. - Physics, Waubonsee Community College, Sugar Grove, IL., May 2017
-* B.S.L.A.S. - Mathematics, University of Illinois, Urbana-Champaign, IL., May 2020 (expected)
+* A.S. - Physics, Waubonsee Community College, Sugar Grove, IL., Graduated May 2017
+* B.S.L.A.S. - Mathematics, University of Illinois, Urbana-Champaign, IL., In Progress
 
 Skills
 ======
@@ -20,10 +20,10 @@ Skills
 	* Linux (Arch, Debian, CentOS)
 	* UNIX (OpenBSD)
 	* Shell Scripting (Bash and Zsh)
-	* LaTeX
-	* HTML/CSS/Markdown
+	* $\LaTeX$
+	* HTML, CSS, and Markdown
 	* Python
-	* MariaDB (A fork of MySQL)
+	* MySQL (MariaDB)
 	* R
 
 * Mathematics
