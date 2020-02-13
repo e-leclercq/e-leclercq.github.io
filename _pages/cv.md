@@ -9,10 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * A.S. - Physics, Waubonsee Community College, Sugar Grove, IL., Graduated May 2017
 * B.S.L.A.S. - Mathematics, University of Illinois, Urbana-Champaign, IL., In Progress
+
+
+Certifications
+======
+
+LPI Linux Essentials - Earned: Feb 2020  Valid: Lifetime
+
 
 Skills
 ======
@@ -34,6 +42,7 @@ Skills
 * Languages
 	* English
 	* French
+
 
 Awards
 ======
