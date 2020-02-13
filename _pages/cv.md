@@ -19,7 +19,7 @@ Education
 Certifications
 ======
 
-LPI Linux Essentials - Earned: Feb 2020  Valid: Lifetime
+LPI Linux Essentials - Earned: Feb 2020,  Valid: Lifetime
 
 
 Skills
